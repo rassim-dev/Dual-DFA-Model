@@ -1,0 +1,5 @@
+a(a+b)* DFA txt file
+2x2
+        a   b    
+>   q0  q1  trapState
+*   q1  q1  q1

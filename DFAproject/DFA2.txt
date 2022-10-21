@@ -1,0 +1,5 @@
+"odd number of ones" DFA txt file
+2x2
+        0   1
+>   q0  q0  q1
+*   q1  q1  q0

@@ -9,12 +9,6 @@ import java.io.*;
 import java.util.*;
 
 
-/**
- *
- * 46341 Amir Aghbar
- * 49171 Rassim Melaab
- * 46298 Samira Miah
- */
 public class dfaClass {
     private String head;
     private int nQ; //n rows = n states

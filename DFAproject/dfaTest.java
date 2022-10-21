@@ -5,12 +5,7 @@
  */
 package DFAproject;
 
-/**
- *
- * 46341 Amir Aghbar
- * 49171 Rassim Melaab
- * 46298 Samira Miah
- */
+
 import java.io.*;
 import java.util.*;
 
